@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://ncautoquote.com/sitemap.xml
+
+# NC Auto Quote - Bill Layne Insurance Agency
+# https://ncautoquote.com
